@@ -1,26 +1,31 @@
 # Round 3 — Birdy Robbins
 
 ## What just happened
-They searched the study and turned up a peach glove monogrammed **G.B.** and a green smudge
-on the glass. The narrator just said someone was up at eleven o'clock and *saw* who was really
-in the study wing. That someone, sugar, is **you.** It's time to drop your anchor.
+They searched the study and turned up a peach glove monogrammed **G.B.** and a green smear on
+the glass. The narrator just said someone was up at eleven o'clock and *saw* who was really in
+the study wing. That someone, sugar, is **you.** It's time to drop your anchor.
 
 ## What you now know
-- The glove and pigment point at Gwen Buchthal — "the Georgia Peach."
+- The glove and green smear point at Gwen Buchthal — "the Georgia Peach."
 - What you saw last night now fits like a key in a lock.
 
 ## This round — YOUR BIG MOMENT
-**Reveal what you saw.** Around **11:00 PM,** when you came back inside for your forgotten
-keys, you **saw Gwen Buchthal hurrying out of the study wing** — *not* heading upstairs to
-bed like she claimed, but coming *away from Dolan's study.* And you half-noticed **something
-peach-colored dropped on the floor** by the door (the glove). Say it plainly. This is the
-clue that breaks her alibi.
+**Reveal what you saw.** Around **11:00 PM,** when you came back inside for your forgotten keys,
+you **saw Gwen Buchthal hurrying out of the study wing** — *not* heading upstairs to bed like
+she claimed, but coming *away from Dolan's study.* And you half-noticed **something
+peach-colored dropped on the floor** by the door (the glove). Say it plainly. This is the clue
+that breaks her alibi.
 
-Expect Gwen to attack you — she'll call you a smuggler, an IRS dodger, a liar with a motive.
-Hold your course. You can admit your business has "tax troubles" if you must, but stress: you
-needed Dolan **alive,** and you know what you saw.
+Expect Gwen to attack you. Hold your course — you know what you saw.
 
-## If pressed
-Stand by your account: 11:00, the keys, Gwen leaving the study wing, the peach glove on the
-floor. If they press your finances, concede there's "an audit comin'" but that's exactly why
-Dolan's death *hurts* you — you'd never have killed your own meal ticket.
+## Threads you can pull
+- That valet **Buck** is no valet. If he's pressed you with his notebook, **turn it back on
+  him: ask the room why a manservant investigates like a cop.** (Let him explain himself.)
+
+## If questioned
+- **About your finances:** if **Dave** (the numbers man) or **Buck** presses you about where
+  Dolan's grant money went, admit it — the fleet's been **runnin' contraband and skimmin'
+  grants,** and there's an audit comin'. But stress: that's exactly why you needed Dolan
+  **alive.** His death *sinks* you; you'd never kill your own meal ticket.
+- **About the kelp:** you already own that your chain hauls up toxic green slime — but you dump
+  it at sea; you didn't carry any into this house.

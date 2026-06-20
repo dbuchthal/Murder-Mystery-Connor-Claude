@@ -1,9 +1,8 @@
 # Round 3 — Laurel of the Woods
 
 ## What just happened
-They found a green smudge and a peach glove with "G.B." on it — pointin' squarely at the
-Georgia Peach, sugar, not at you. The poison was paint, so your moonshine's long cleared.
-Things are lookin' up for a backwoods gal.
+They found a green smear and a peach glove with "G.B." on it — pointin' squarely at the Georgia
+Peach, sugar, not at you. Things are lookin' up for a backwoods gal.
 
 ## What you now know
 - The evidence points at Gwen.
@@ -12,13 +11,18 @@ Things are lookin' up for a backwoods gal.
 ## This round
 If Antoninski reveals the woods alibi, **confirm it:** you were with him from ~10:15 to 11:30,
 out in the trees staging a sasquatch "sighting" for the Contessa. Yes — that means *you built
-the hoax,* and now it's out. It stings (there goes the gravy), but it clears you both of
-murder, which beats a noose.
+the hoax,* and now it's out. It stings (there goes the gravy), but it clears you both of murder,
+which beats a noose.
 
-With that off your back, you can twang your two cents: "A forger with a jar of paint poison
-an' her own glove at the scene? That dog'll hunt, sugar."
+With that off your back, twang your two cents: "A green smear an' a fancy glove at the scene?
+That dog'll hunt toward somebody who works with their *hands,* sugar — not my jugs."
 
-## If pressed
-Confirm the woods alibi and own up to building the fake sasquatch. Stress your moonshine had
-nothing to do with the murder (the poison was paint). Point the finger where the evidence
+## Threads you can pull
+- If suspicion swings back toward green poisons, remind the room you saw **Antoninski foraging
+  mushrooms** — but he's already owned that, and you're both alibied, so use it only to point
+  away from your moonshine.
+
+## If questioned
+Confirm the woods alibi and own up to building the fake sasquatch. Stress your green moonshine
+never left your jugs and never touched that buttermilk. Point the finger where the evidence
 points — at Gwen.

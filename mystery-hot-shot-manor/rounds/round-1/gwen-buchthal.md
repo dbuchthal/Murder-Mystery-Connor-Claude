@@ -12,9 +12,9 @@ and so you can start steering the room toward "natural causes" and away from you
 
 ## This round
 Be the grieving, gracious Peach. Mingle, charm, help open the cryptex (you can't refuse
-without looking odd). Float the idea that Connor's "poor heart" simply gave out. Watch how
-people react to the word "forger." Start sizing up who you can throw to the wolves —
-**Antoninski** is sweating; lovely.
+without looking odd). Float the idea that Connor's "poor heart" simply gave out. The word
+"forger" in that will points at *you* — so smile through it and give nobody a reason to look
+your way. You don't know these people's business; let them squabble among themselves.
 
 ## If pressed
 If anyone asks where you were last night, you went **up to bed early with a headache** around

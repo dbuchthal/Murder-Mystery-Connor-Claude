@@ -1,24 +1,28 @@
 # Round 2 — Birdy Robbins
 
 ## What just happened
-It's murder — poison, some green painter's pigment called Paris Green. And the valet's
-flashin' a ledger about a forger in Dolan's art collection. The heat's buildin', and you've
-still got that card up your sleeve about what you saw last night.
+It's murder — poison, and a *green* one at that. And the valet's flashin' a ledger about a
+forger in Dolan's art collection. The heat's buildin', and you've still got that card up your
+sleeve about what you saw last night.
 
 ## What you now know
-- The weapon was an *artist's* pigment — points at someone who works with paint, not at a
-  fisherman.
+- It was murder; the poison was a **green substance** (nobody's named it).
 - There's a forger in the picture (the will, the ledger).
 - You still hold your eyewitness card. It's not time yet — but it's gettin' close.
 
 ## This round
-Keep the smugglin' and skimmin' battened down. Note (with some relief) that a *paint* poison
-points nowhere near a boat captain. **Hold your sighting** one more round unless someone
-directly accuses you or corners you about the study wing — then you may start hinting you
-"saw someone where they shouldn't have been."
+Keep the smugglin' and skimmin' battened down. The talk of *green* poison may swing toward you
+— you know full well that green sea-slime is deadly. Don't volunteer it, but don't get caught
+in a lie if a sharp eye presses you.
 
-## If pressed
-You were at the docks securin' your boat. If anyone leans on you hard about the upstairs hall
-or your forgotten keys, you *may* begin to admit you came back inside around eleven and "saw
-someone leavin' the study" — but you can hold the *name* (Gwen) until Round 3 for maximum
-effect. (Don't get pinned for a killin' that only *ruins* you.)
+## Threads you can pull
+- That valet **Buck** is no ordinary manservant — he's got **lawman eyes** and a notebook.
+  When he leans on you, **lean right back: ask him what he's really doin' in this house.**
+
+## If questioned
+- **About green poisons / your boat:** if **Kristof** (a curious scientist) or **Buck** presses
+  you about what comes up on your nets, admit it — your **anchor chain hauls up toxic green
+  kelp,** a bloom that'll blister hands and stop a heart. You handle it careful. *Knowing* it's
+  deadly isn't *using* it.
+- **About last night:** you were at the docks securin' your boat. **Hold your eyewitness
+  sighting** until Round 3 unless someone corners you hard about the study wing.

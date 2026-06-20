@@ -1,23 +1,28 @@
 # Round 2 — Laurel of the Woods
 
 ## What just happened
-Murder, sugar — and poison at that. But hold on: the valet says it was **Paris Green,** some
-fancy painter's pigment. *Not* moonshine. *Not* drink. Well, slap my knee — that's the first
-good news you've had all night, even if you can't say so out loud.
+Murder, sugar — and poison at that. The valet says it was **green.** Well, now. Your moonshine
+runs *green* with all those liqueurs you cut it with. You'd best not look nervous, even though
+you are.
 
 ## What you now know
-- The poison was an *artist's pigment* — which means your moonshine is in the clear.
+- It was murder; the poison was a **green substance** (nobody knows exactly what yet).
 - There's a forger among the art folk (the will, the ledger).
-- Antoninski's sweatin' buckets, and his fraud is *your* fraud if it spills.
 
 ## This round
-Defend your brew loudly and honestly: "My shine's got *nothin'* to do with paint poison,
-sugar!" That's true, and it clears you. Keep the fake-sasquatch racket buried. **Hold** your
-woods alibi for now — using it exposes the hoax. Watch Antoninski; if he panics, you may have
-to decide whether to back his alibi.
+Play folksy and calm. Notice — with some relief — that you ain't the only one in this house
+who knows green poisons. Keep the fake-sasquatch racket buried. **Hold** your woods alibi for
+R3 (using it spills the hoax).
 
-## If pressed
-You were "out in the woods, where you're most at home." ⚠️ If Antoninski breaks and reveals
-the woods alibi — or if the table corners you — you can confirm you were **with him from
-~10:15 to 11:30,** which clears you both of the murder but admits you staged the sasquatch.
-Hold this until R3 if you can.
+## Threads you can pull (spread the suspicion)
+- You've watched **Antoninski forage poison mushrooms** and jar up extracts on your treks
+  through the woods. If the room's huntin' for who knows green poison, **call out the Soviet** —
+  ask him straight about his mushroom science. Better eyes on him than on your jugs.
+
+## If questioned
+- **About your moonshine / green brew:** if **Kristof** (who's tasted it) or **Emma** (who tried
+  it years back at a festival) presses you, admit it — you cut your shine with potent **green
+  liqueurs,** wormwood and herbs, strong enough to drop a moose. Own it folksy-like: knowin'
+  how to make a strong green drink ain't the same as poisonin' a man.
+- **About last night:** you were "out in the woods, where I'm most at home." (Hold the full
+  alibi for R3.)

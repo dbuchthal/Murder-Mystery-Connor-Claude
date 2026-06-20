@@ -7,51 +7,57 @@
 nobody's brave enough to turn it off.)*
 
 So you cracked the box. You read the dead man's poison-pen will. And now the whole room's
-lookin' sideways at each other, wonderin' which one of you is the "thief and forger" old
-Dolan promised to unmask. Cute. But here's the thing nobody's said out loud yet, so allow
-your humble valet — and, full disclosure, your humble *private detective* — to say it:
+lookin' sideways at each other, wonderin' which one of you is the "thief and forger" old Dolan
+promised to unmask. Cute. But here's the thing nobody's said out loud yet, so allow your
+humble valet — and, full disclosure, your humble *private detective* — to say it:
 
 **Dr. Dolan didn't die of a bad heart. Dr. Dolan was murdered.**
 
 See, I've worked enough corpses in my Baltimore days to know one that's been *helped* along.
-So this mornin', while you were all still rubbin' the sleep outta your eyes, I gave the
-study a proper toss and the body a proper look. And I found somethin' in that buttermilk
-glass. His nightly nightcap — the one *I* brought him at ten o'clock, clean as a whistle —
-had a little extra ingredient by the time he drank it.
+So this mornin', while you were all still rubbin' the sleep outta your eyes, I gave the study a
+proper toss and the body a proper look. And I found somethin' in that buttermilk glass. His
+nightly nightcap — the one *I* brought him at ten o'clock, clean as a whistle — had a little
+extra ingredient by the time he drank it.
 
 *(produces a slip — the "coroner's note")*
 
-The residue in the glass was **emerald green.** Not food colorin', sweethearts.
-**Paris Green** — a poisonous pigment. The stuff old painters used to grind into their
-emerald oils, loaded with arsenic. A teaspoon of it in a sick man's milk, and *adios.*
+The residue in the glass was **green.** A **green, poisonous substance** — settled in the
+bottom of the milk like pond scum. I don't have a fancy lab to tell me exactly *what* it is,
+not yet. But I know poison when I see it, and I know it was green, and I know it went into that
+glass sometime after ten o'clock, while half this house was wanderin' loose in the dark.
 
-Now chew on that. Our boy wasn't poisoned with hooch, or hemlock, or some spy's exotic
-toxin. He was poisoned with **paint.** Which means somebody in this room had a reason to be
-carryin' around a jar of toxic emerald *art supply.* Funny — Dolan's will mentioned a
-*forger.* And forgers, party people, work with **paint.**
+*(beat)*
+
+Now that's a funny color for a poison, ain't it? *Green.* Makes a fella wonder who in this
+fine company knows their way around somethin' green and deadly. Mushrooms. Brews. Things that
+come up out of the cold salt water. You'd be surprised, party people, how many green poisons
+can fit in one drafty manor.
 
 Start talkin'. Somebody here knows more than they're lettin' on. They always do.
 
 ## Host notes (do not read aloud)
 
-- **Clue 1 lands here:** the murder weapon is **Paris Green**, an arsenical *artist's
-  pigment* — explicitly tying the murder to someone with art-restoration/painting materials,
-  and explicitly linking it to the "forger" from the will. This is the round's key clue.
-- **Clues that must surface this round (and who holds them):**
-  - The Paris-Green coroner's note — **narrator/Buck** (just delivered above).
-  - The nightcap was **clean at 10:00** when Buck delivered it → poison added *later*, by
-    someone who reached the study after 10:00 — **Buck** (his R2 handout / if pressed).
-  - **Dolan's forgery ledger** — **Buck** produces it: Dolan had proof a guest was forging
-    his art. Reinforces **Clue 3** (motive). Does **not** name Gwen.
-  - **Dave's phone alibi** begins to surface (he was on the Atlanta line 10:30–11:20) →
-    seeds **Clue 4** (he can't vouch for Gwen). Press Dave.
-- **Secrets/red herrings stirred this round:** Laurel bristles that her **moonshine** had
-  nothing to do with it (the "paint not booze" reveal starts clearing her). **Antoninski**
-  sweats hard — the table's suspicion naturally swings to him (faked-sasquatch motive leaking)
-  — keep that herring alive; it resolves in R3.
-- **How to nudge if stuck:** "Who here works with paint?" "A forger needs an artist's hand —
-  who at this table knows their way around a canvas?" Have Buck offer the ledger if the
-  forgery thread stalls. Gwen will deflect toward "natural causes" / Antoninski — let her.
-- **Mechanics & timing:** ~20–25 min. Hand each player their R2 handout at the top of the
-  round. You may show the table the "coroner's note" and "ledger" as physical props
-  (envelopes). Buck controls when the ledger comes out.
+- **Clue 1 lands here, deliberately ambiguous:** the weapon is **"a green poisonous
+  substance."** Do **NOT** name it. ("Paris Green," "pigment," and "arsenic" are R4 words.)
+  The point of this round is to make the table realize *several* guests know green poisons.
+- **Poison-skill secrets to surface this round (questioned per the bible §7b, revealed by the
+  holder):**
+  - **Antoninski is a mycologist** who carries poisonous-mushroom extracts. *Laurel* (saw him
+    foraging) and *Buck* (lead) press him; he admits it.
+  - **Laurel cuts her moonshine with potent green liqueurs.** *Kristof* (drank it in the woods)
+    and *Emma* (tried it at a festival) press her; she admits it.
+  - **Birdy hauls up toxic green kelp** on her anchor chain. *Kristof* (curious scientist) and
+    *Buck* (lead) press her; she admits it.
+  - Result: **three openly green-poison-capable suspects** now loom (and a fourth, Gwen, whose
+    pigment stays hidden). Suspicion should spread, not narrow.
+- **Other clues this round:**
+  - **Buck**: confirms the nightcap was **clean at 10:00** (poison added after) and produces
+    Dolan's **forgery ledger** — proof a guest was forging his art (reinforces **clue 3**,
+    motive; does **not** name Gwen).
+- **How to nudge if stuck:** "A *green* poison — who here works with green and deadly?" Point
+  questioners at their targets (Laurel→Kristof, Kristof→Birdy, Emma→Laurel). If the forgery
+  thread stalls, have Buck lay the ledger on the table.
+- **Gwen** will push "natural causes / weak heart" and stay quiet — let her; she has no
+  knowledge of the others' secrets to weaponize.
+- **Mechanics & timing:** ~25 min. Hand out R2 handouts at the top. Props: a "coroner's note"
+  (green residue) and the "forgery ledger" (envelopes) for Buck.
