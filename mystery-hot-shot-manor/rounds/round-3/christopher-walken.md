@@ -30,3 +30,9 @@ moment to drive the forgery thread. Two duties:
   fashion* — you've never painted a forgery in your life.
 - **About last night:** the parlor — though you did slip out between numbers.
 - **About poison:** the FX/makeup chemicals (from last round).
+
+## A personal beat (optional)
+**Emma Lucas** keeps finding reasons to talk to you — the assless chaps, the music video, and
+something underneath it she won't quite say. If she corners you with a *bigger* truth tonight,
+react in the moment; you genuinely don't know what she's building up to. (It has nothing to do
+with the murder.)

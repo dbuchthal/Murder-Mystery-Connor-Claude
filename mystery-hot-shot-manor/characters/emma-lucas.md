@@ -26,15 +26,24 @@ few exotic souvenirs from festivals in places you can't pronounce. Some of it wo
 - **Dr. Dolan** (deceased) — your number-one fan.
 - **Laurel of the Woods** — you crossed paths at a festival years back and tried her brew; that
   **green stuff** nearly took the roof off your skull.
-- **Christopher Walken** — fellow icon. You run in some of the same shadowy art circles, and
-  you've each looked the other way about things bought and sold.
+- **Christopher Walken** — fellow icon, and — though he hasn't the faintest idea — **your
+  biological father.** You recently learned that "Walken" is really *Christopher Chappman,* and
+  that Chappman is the man who fathered you and vanished before you were born. You haven't told
+  him. You're not even sure you *want* to — you just needed to be in the same room. (You also,
+  conveniently, want to buy some of his old **"Clappin' Chappman's Assless Chaps for Lasses"** for
+  your next music video — a flimsy pretext to get near him.) You run in some of the same shadowy
+  art circles, too, and you've each looked the other way about things bought and sold.
 
 ## What you're hiding
-You are **flat broke** — the synth-uke flopped — and you came to **beg Dolan for a loan.** And
-there's worse: you've got deep **art-world connections,** and you've quietly **fenced forged
-paintings** for friends in the scene, moving "lost masterpieces" to collectors who don't ask
-questions. You're not a painter — you're a *mover.* If that comes out, you look like exactly the
-"forger" the will mentioned.
+You are **flat broke** — the synth-uke flopped — and you came to **beg Dolan for a loan.** You've
+also got deep **art-world connections,** and you've quietly **fenced forged paintings** for
+friends in the scene, moving "lost masterpieces" to collectors who don't ask questions. You're not
+a painter — you're a *mover.* If that comes out, you look like exactly the "forger" the will
+mentioned.
+
+And the deepest thing of all: **Christopher Walken is your father, and he doesn't know it.** It's
+not a crime and it has nothing to do with the murder — but it's the secret that actually keeps you
+up at night. Whether you ever say it out loud tonight is up to you.
 
 ## Your goal tonight
 Keep the money troubles and the art-fencing buried. Lean on Ross for last night. Figure out what
@@ -45,3 +54,5 @@ happened without anyone digging into your finances or your contacts.
   **Confront Ross about your missing money.**
 - You've *tasted* how lethal **Laurel's green moonshine** is — if talk turns to poison, say so.
 - You've seen **Walken** moving in dodgy art circles — a thread, if you need to deflect.
+- **Approach Christopher** about buying his old assless chaps for your video — and decide, in the
+  heat of the night, whether you finally tell him the truth about who you are.

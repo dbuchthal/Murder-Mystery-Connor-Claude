@@ -96,6 +96,11 @@ getting distracted by the decade.
   substances from a decade of touring; plenty would stop a heart.
 - **Fraud/forgery angle:** a working **artist with deep art-world connections**; she's quietly
   **fenced forged artworks** for friends and knows every forger and dealer on two coasts.
+- **Hidden relationship (subplot, not the murder):** Emma recently discovered she is the
+  **illegitimate, never-recognized daughter of Christopher "Chappman" Walken.** *She* knows; *he*
+  does not. She also wants to buy some of his legendary old **"Clappin' Chappman's Assless Chaps
+  for Lasses"** for a music video — an excuse, really, to get close to the father who never knew
+  her. This is a poignant/comic subplot; it does **not** bear on the poisoning.
 - **Motive:** broke; came to **beg Dolan for a loan** (and he knew of her art-fraud contacts).
 - **Voice:** Spacey, grandiose, drifts off mid-sentence.
 
@@ -112,13 +117,19 @@ getting distracted by the decade.
 ### Christopher Walken — "Walken on Sunshine"
 - **Role:** A-list actor, fashion icon, dancer, art-and-fashion connoisseur; Dolan investor.
 - **Public persona:** "Used to be kind of a big deal" in Seattle fashion. Halting... speech.
+- **Fashion past (Chappman backstory):** at eighteen, as **Christopher Chappman,** he founded a
+  local women's-clothing label — **"Clappin' Chappman's Assless Chaps for Lasses."** Conceived as
+  riding gear, the chaps caught fire in certain **disco** circles and were soon re-marketed as a
+  "**marital aide.**" The line is the buried, mortifying root of the "Chappman" name he hides.
+  (Emma Lucas approached him about buying some chaps for a music video — he has **no idea** she is
+  his daughter; see Emma.)
 - **Poison access:** crates of **Hollywood special-effects and stage-makeup chemicals** —
   theatrical toxins, fake-blood solvents, prop poisons.
 - **Fraud/forgery angle:** he is **his own forgery** — "Walken" is a stage name (he's
   **Christopher Chappman**); he's been accused of **passing off fakes** (fashion and art), and
   his Dolan "investment" was tangled up with artworks he can't account for. (He **secretly
   pulled his investment** weeks ago.)
-- **Motive:** dreaded Dolan exposing the pulled investment / the fakes / the name.
+- **Motive:** dreaded Dolan exposing the pulled investment / the fakes / the name (chaps and all).
 - **Voice:** The Walken cadence. Strange. Pauses. Where you... wouldn't. Expect them. Wow.
 
 ### Ms. Jay "Birdy" Robbins — "The Canary in the Coal Mine"

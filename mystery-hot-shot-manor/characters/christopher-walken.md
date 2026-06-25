@@ -11,6 +11,12 @@ You're a celebrity friend of Dr. Dolan and a key investor in his crab-people res
 turned up dead, the bridge washed out, and now you're trapped in a manor full of liars. Which,
 frankly... is a role you were born to play.
 
+Long before Hollywood, at eighteen, you were plain **Christopher Chappman,** and you founded a
+little Seattle fashion label: **"Clappin' Chappman's Assless Chaps for Lasses."** You designed
+them — and you'll insist on this — as *riding gear.* But the disco crowd discovered them, the
+catalog started calling them a "**marital aide,**" and the whole enterprise became the most
+gloriously mortifying chapter of your life. It is the real reason "Chappman" had to... disappear.
+
 ## How you carry yourself
 The Walken cadence. You put the pauses... where nobody expects them. You repeat a word for
 emphasis. *Emphasis.* You over-articulate and punctuate strange moments with a soft "wow." You
@@ -25,7 +31,9 @@ dream, and yours goes everywhere you do.
 - **Dr. Dolan** (deceased) — your friend. Your... investment. There are things he didn't know.
 - **Emma Lucas** — a fellow icon. At dinner you watched her **corner the old man, practically
   begging** — money, you'd wager. You also know she keeps... *interesting* company in the art
-  world.
+  world. Oddly, she keeps wanting to talk to *you* — she's after some of your old **assless
+  chaps** for a music video, she says. She seems... strangely... intent. You can't think why a
+  pop star would care so much about *you.* Wow.
 - **Gwen Buchthal** — the art-museum woman, and a restorer. Here's the thing: you've a
   connoisseur's eye, and one of Dolan's prize canvases was... *wrong.* Too new. **Painted
   over.** A **forgery,** you'd almost swear — and Gwen got oddly twitchy when you said so.

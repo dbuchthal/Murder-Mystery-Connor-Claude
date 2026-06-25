@@ -19,6 +19,11 @@ either of you really prove anything?).
 - **Confront Ross about your missing money** — now, in front of everyone.
 - You've seen **Walken** in shady art circles too — **press him** if you need to spread it.
 
+## A personal beat (optional, your call)
+With the masks coming off all around you, this may be the night you tell **Christopher** the
+truth — that you're his daughter. Or you may keep hiding behind the music-video / assless-chaps
+pretext a little longer. It changes nothing about the murder; it's purely yours to play.
+
 ## If questioned
 - **About fraud:** if **Walken** (who's seen your contacts) or **Ross** presses you, admit it —
   you've **fenced forged paintings** for friends in the scene, moving "lost masterpieces" to
