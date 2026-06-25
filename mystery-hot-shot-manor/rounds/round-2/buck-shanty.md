@@ -7,30 +7,31 @@ but "green poison" got the room squirmin'. Good. Squirmin' people talk.
 
 ## What you now know (and can reveal this round)
 You're the engine of the case. This round you may surface:
-- **The nightcap was clean at 10:00.** You delivered it yourself; the poison went in *after.*
-  So the killer reached the study sometime after ten — while half this house wandered loose.
-- **Dolan's forgery ledger.** Produce it when the moment's right: it proves Dolan caught
-  someone **forging and selling his art** and meant to expose them. It does **not** name the
-  forger (the proof's technical) — but it nails the *motive* to whoever that forger turns out
-  to be.
+- **The nightcap was clean at 10:00.** You delivered it; the poison went in *after,* while
+  everyone roamed loose.
+- **Dolan's ledger.** Produce it when the moment's right: it proves Dolan caught someone
+  **repainting and swapping his canvases** — *painting* forgery. It does **not** name them (the
+  proof's technical), but it tells you the forger works in **paint.** File that away.
 
 ## How to work it (don't announce — pry)
-A *green* poison means you should be askin' who knows green and deadly. Use your notebook leads
-to **press the holders into confessing themselves** — never state their secret for them:
-- "I've seen you out in the woods with a basket, Doctor. What's a sasquatch hunter want with
-  *mushrooms?*" → let **Antoninski** admit the mycology.
-- "Funny color for a poison. Green. Like a certain moonshine I hear runs emerald, Laurel." →
-  let **Laurel** admit the green liqueur.
-- "What comes up on that anchor chain of yours besides crabs, Birdy?" → let **Birdy** admit the
-  toxic kelp.
+A *green* poison, and a houseful of people who all keep one. Use your notebook leads to make each
+**confess their own poison access** — never state it for them:
+- "What's a sasquatch hunter want with *mushrooms,* Doctor?" → Antoninski.
+- "I hear a jug of your green brew walked off tonight, Laurel." → Laurel (+ the missing jug).
+- "What comes up on that anchor chain besides crabs, Birdy?" → Birdy (+ the boat lurkers).
+- "Big plant you run, Dave — lotta drums of nasty chemicals in a place like that." → Dave.
+- "A decade on the road, Miss Lucas — that's a well-stocked travel bag." → Emma.
+- "Carnival folk keep a kit, Ross. Knockout drops still in it?" → Ross.
+- "Stage makeup's mostly poison, ain't it, Mr. Walken?" → Walken.
+- "Old Sicilian name, Contessa. Famous for more than wine, your family." → Contessa.
+- "Restorer's chemicals are wicked stuff, Mrs. Buchthal." → Gwen (generic only — she won't give
+  up the pigment).
 
 ## This round
-Work the room. Surface the three green-poison skills (you and the other questioners), drop the
-ledger, and note the clean nightcap. **Don't** name a suspect — you don't have the physical
-evidence till the study search (R3) and the luggage search (R4). Plant the pieces.
+Spread the poison suspicion across all ten; drop the ledger; note the clean nightcap. **Don't**
+name a suspect — you don't have the decisive evidence until R4. Plant the pieces.
 
 ## If questioned
-You've nothing to hide *about last night* — you turned in after the nightcap. But if **Gwen**
-(who saw you near the luggage) or **Birdy** (who clocked your lawman eyes) presses you about
-what you really are — see your Round 3 handout; you can hold the "I'm a detective" reveal until
-then for maximum effect, or confirm it now if cornered.
+You handled the glass, so expect heat. If **Gwen** (saw you near the luggage/tray) or **Birdy**
+(your cop eyes) calls you out, you can hold the "I'm a detective" reveal for Round 3 — or confirm
+it now if cornered. Insist the nightcap was clean when you set it down.

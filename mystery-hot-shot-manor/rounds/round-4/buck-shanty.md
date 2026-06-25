@@ -1,32 +1,31 @@
 # Round 4 — Buck Shanty
 
 ## What just happened
-You played your last card and it was an ace. First you finally *identified* that green poison:
-not mushroom, not moonshine, not kelp — **Paris Green,** an arsenical paint pigment. Then a
-search of the guests' luggage turned up **Gwen's art-restoration kit with the same Paris
-Green** — a dead match for the doctor's glass. Case closed. The old Baltimore instincts never
-left.
+You played your last cards and they were aces. First you matched that green residue against every
+poison in the house and named it: **Paris Green** — an oil-paint pigment. Then you remembered what
+the ledger said: the forger **repainted** Dolan's canvases. Two halves of one answer. A search of
+the luggage turned up **Gwen's restoration kit with the matching Paris Green.** Case closed.
 
 ## This round — YOU DELIVER THE REVEAL
 You're the detective; the finale is yours to walk.
-- **Identify the poison** as **Paris Green** (an artist's pigment) and **produce the kit** (a
-  small case with a jar of emerald powder). Lay it beside the murder glass. That's the final
-  nail.
-- **Walk the clue-chain** so everyone sees it converge on Gwen and no one else:
-  1. The poison was **green** — which first pointed at *four* people who keep green poisons
-     (Antoninski's mushrooms, Laurel's liqueur, Birdy's kelp, and a hidden fourth).
-  2. **Three of them had airtight alibis** (the woods, the docks) — leaving one.
-  3. The green at the scene was a dry **smear/pigment**, identified tonight as **Paris Green** —
-     an *art* poison, not a brew or a fungus.
-  4. **Motive:** Dolan's ledger + Walken's eye proved a guest **forged his art** — Gwen, the art
-     expert.
-  5. **Opportunity & evidence:** Gwen lied about being in bed (Birdy *saw* her; Dave's call
-     couldn't vouch), her **glove** was at the scene, and her **kit** held the matching pigment.
-- **Name her:** Gwen Buchthal — forger, thief, and killer.
-- **Resolve the red herrings** (use the narrator wrap): the three green-poison suspects'
-  alibis, the faked sasquatch, Dave's embezzlement, Birdy's smuggling, Emma's debts, Ross's
-  skimming, Walken's withdrawn investment & alias, the Contessa's bribe — all secrets, none the
-  murder.
+- **Identify the poison** as **Paris Green — an oil-paint pigment** (not mushroom, kelp, liqueur,
+  plant chemical, drop, or tincture).
+- **Recall the ledger:** the forger Dolan caught **painted over his canvases** — *painting*
+  forgery, not faked film, papers, books, names, certificates, or smuggled art.
+- **Fuse them:** "Everybody here had a poison, and everybody here faked somethin'. But only one
+  trade puts a brush to canvas — and the killer poisoned him with *paint.* Out of ten suspects,
+  exactly one sits in both circles." 
+- **Produce the kit** (a case with a jar of emerald powder) and **name her:** Gwen Buchthal —
+  the only painting-forger who works in paint.
+- **Resolve the false leads** (use the narrator wrap): every other guest's poison wasn't paint and
+  every other fraud wasn't *painting* — film, papers, books, names, certificates, smuggling,
+  fencing, identity. Each almost fit; none sat in both circles.
+
+## Note
+There was **no glove, no eyewitness, no broken alibi** — nobody had a clean alibi anyway. You
+solved it the hard way: by the one thing that couldn't be faked — the intersection of *what the
+poison was* and *what the forger forged.*
 
 ## Your goal
-Tie the bow on the case. "The dame had a story. They always do. Hers just had a body in it."
+Tie the bow. "The dame had a story. They always do. Hers was painted right onto the murder
+weapon."

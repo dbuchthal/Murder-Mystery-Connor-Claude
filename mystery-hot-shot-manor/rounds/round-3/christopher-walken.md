@@ -1,28 +1,32 @@
 # Round 3 — Christopher Walken
 
 ## What just happened
-A glove. Peach. Monogrammed... "G.B." And a green smear on the glass. The story... turns. And
-it turns... toward Gwen. *Wow.*
+The study gave up... almost nothing. Green on the glass. No name. But the ledger says the
+forger... *painted over*... the old man's canvases. And you — you saw that. With your own... eye.
+*Wow.*
 
 ## What you now know
-- The evidence points at Gwen Buchthal.
-- Your parlor alibi (many witnesses) keeps you comfortably clear.
+- No physical clue points at anyone in particular.
+- The forger Dolan caught **repainted his paintings** — and you spotted a painted-over Dolan
+  canvas yourself.
 
 ## This round
-Stay above suspicion — you were performing in the parlor all evening, witnessed by the
-Contessa, Buck, and the staff.
+Stay above suspicion (parlor, witnesses — mostly). But you're an *art expert,* so this is your
+moment to drive the forgery thread. Two duties:
 
-## Threads you can pull (press hard now)
-- Your connoisseur's eye told you one of Dolan's prize canvases is a **forgery,** and **Gwen**
-  flinched when you noticed. The will named a *forger.* **Press Gwen, openly, about that
-  painting** — a forger is exactly the "thief" Dolan meant to unmask, and that's a *motive* for
-  murder. This is your big contribution: tie Gwen to the forgery.
-- You also saw **Emma beg Dolan for money** at dinner — **ask her about it** if it helps spread
-  the picture.
+## Threads you can pull
+1. **Corroborate the painting forgery:** tell the room you saw one of Dolan's canvases was
+   **painted over** — a real, hands-on *painting* forgery — and that **Gwen,** the restorer, got
+   twitchy when you noticed. **Press her on it.**
+2. **REQUIRED — push Kristof as the poisoner:** the man carries **poison mushrooms** and had the
+   biggest motive (Dolan was about to expose his fake ape). **Accuse him openly** and demand he
+   account for his green poison and his whereabouts. Don't let him wriggle free.
+- You can also **ask Emma** about her shady art contacts.
 
 ## If questioned
-- **About last night:** the parlor, all evening, witnesses.
-- **About your finances or your name:** if **Contessa** (society gossip) or **Buck** presses you,
-  admit it — "Walken" is a stage name (you're **Christopher Chappman**) and you **quietly pulled
-  your investment** out of Dolan's research weeks ago because you're overextended. A money matter
-  and a touch of vanity — not a crime. You were on stage in the parlor all night.
+- **About your fraud:** if **Contessa** (society gossip) or **Buck** presses you, admit it —
+  "Walken" is a stage name (you're **Christopher Chappman**), you **pulled your investment** out of
+  Dolan's research, and you've been **accused of passing fakes.** A fraud of *identity and
+  fashion* — you've never painted a forgery in your life.
+- **About last night:** the parlor — though you did slip out between numbers.
+- **About poison:** the FX/makeup chemicals (from last round).

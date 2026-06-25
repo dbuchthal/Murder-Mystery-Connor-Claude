@@ -1,19 +1,18 @@
 # Round 4 — Laurel of the Woods
 
 ## What just happened
-Buck found the poison kit in Gwen's bags — the Peach did it, sure as sunrise. You're cleared,
-sugar. But the woods alibi spilled the sasquatch hoax, so your little racket with Antoninski
-is out in the open now.
+Buck names the poison — **Paris Green,** a *paint* — and ties the killer to the one who **painted**
+Dolan's canvases. That's the Peach, sugar, not a backwoods gal. The matching kit was in Gwen's
+bags.
 
 ## This round
-Make your accusation with a twang — "a forger with paint poison an' her own glove at the
-scene? That dog hunted all the way home." Then own your part.
+Accuse Gwen with a twang — "a painter what poisons with paint; that dog hunted straight home."
+Then take your lumps on the fraud.
 
-## Your secret, resolved
-You built the fake sasquatch — suit, footprints, howls — for Antoninski's money. It's exposed.
-Shrug it off folksy-like; it's a swindle, not a killin'. And take satisfaction that your
-moonshine's name is cleared — the poison was paint, not your good brew.
+## Your false lead, resolved
+You looked guilty as anybody: green moonshine (and a jug gone missing!), and you *build* fakes for
+a living. But you fake *critters and film,* not oil paintings, and your green brew wasn't the
+poison. You lost the sasquatch gravy — but you walk free.
 
 ## Your goal
-Play the sly survivor. You lost the sasquatch gravy, but you walk free — and you helped point
-the finger true.
+Play the sly survivor who helped point the finger true once the paint and the painting lined up.

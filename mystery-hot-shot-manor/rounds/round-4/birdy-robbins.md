@@ -1,19 +1,19 @@
 # Round 4 — Birdy Robbins
 
 ## What just happened
-The accusations fly and the vote's called. Buck searches the luggage and turns up Gwen's
-restoration kit with the Paris Green. Your eyewitness account was the hinge the whole case
-swung on — you put her at the scene.
+The accusations fly and the vote's called. Buck names the green poison — **Paris Green,** a
+*paint* — and ties it to the forger who **painted** Dolan's canvases. The matching kit's in Gwen's
+luggage. The Peach did it.
 
 ## This round
-Make your accusation plainly: you saw Gwen leave the study at eleven, the glove was hers, and
-now the poison's in her own bag. Take a quiet bit of pride — the salt-crusted boat captain
-cracked the case the swells couldn't.
+Make your accusation, or take it in. You helped — your "figure in the dark" proved a sneak was
+about at eleven, even if you couldn't name 'em — but it was the *paint and the painting* that
+sank her, not anything you saw.
 
-## Your secret, resolved
-Your smuggling and grant-skimming may surface. Own it: there's an audit comin' and your
-fleet's in trouble — but that's exactly why you needed Dolan **alive.** His death sinks you;
-you'd never have killed your own meal ticket.
+## Your false lead, resolved
+You looked plenty guilty: toxic kelp on your chain, smuggled forged art in your holds, the IRS at
+your back, and you were in the house near the study at eleven. But you *move* art, you don't paint
+it; your poison wasn't paint; and his death *sinks* you — you needed him alive.
 
 ## Your goal
-Land the hero beat. You saw what you saw, you said it when it counted, and justice got done.
+Land the salt-crusted survivor beat. You kept your head above water while the swells went down.

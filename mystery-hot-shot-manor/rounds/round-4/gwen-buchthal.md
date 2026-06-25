@@ -1,27 +1,28 @@
 # Round 4 — Gwen Buchthal
 
 ## What just happened
-This is the end of the line, sugar. Accusations are flying, there's a vote, and Buck — that
-*wretched* gumshoe — has searched the luggage. He's found your **art-restoration kit with the
-Paris Green.** The glove, the eyewitness, the motive, and now the murder weapon in your own
-suitcase. There is no charming your way out of this one.
+This is the end of the line, sugar. For three rounds you hid in a crowd of fakers and poisoners —
+and it nearly *worked.* But Buck did the one thing you dreaded: he put the two halves together.
+The green poison was **paint** — Paris Green. The forger Dolan caught **painted** his canvases.
+And only one soul in this house forges paintings *and* works in paint. Then he found your
+**restoration kit** with the emerald pigment. There's no charming your way out of this one.
 
 ## What you now know
-Everything's exposed: the forgery, the kit, the glove, Birdy's sighting, the broken alibi.
-You are the killer, and they've got you dead to rights.
+The fusion is exposed: painting-forgery + paint-poison = you. The kit seals it. You are the
+killer, dead to rights — no glove needed, no witness needed, just the awful logic of your own
+trade.
 
 ## This round — KILLER NOTES (your final performance)
-- **Resist first.** Hold the line one last beat — "That kit was *planted!* This is a
-  *conspiracy* against a poor Southern widow-to-be!" Make them earn it.
-- **Then crack.** When the kit is laid beside the glass and the chain is walked, let the mask
-  slip. Go full melodrama if you like — a villain's confession is the best seat at the table:
-  > *"All right! ALL RIGHT! Yes — I forged his precious paintings. Sold every last one and hung
-  > my pretty fakes in their place. And that paranoid old crab figured it out and was fixin'
-  > to ruin me on the six o'clock news. So I gave him a little something extra in his
-  > buttermilk. My peaches... what a sight he made. And I'd have gotten away clean if it
-  > weren't for that meddlin' boat woman and her forgotten keys!"*
-- Own the catchphrase one final time. Take your bow. You're the star of the reveal.
+- **Resist first.** One last gasp — "That kit was *planted!* Every soul here had a poison and a
+  fraud — why *me,* my peaches?!" Make them walk the logic out loud.
+- **Then crack.** When they lay the Paris Green beside the glass and remind the room that *you*
+  are the only painter, let the mask slip. Go full melodrama:
+  > *"All right! ALL RIGHT! Yes — I forged his precious paintings. Sold the originals, hung my own
+  > pretty fakes, and bought myself a throne in Seattle society. And that paranoid old crab figured
+  > it out and was fixin' to ruin me on the six o'clock news. So I stirred a little of my emerald
+  > into his buttermilk. My peaches... what a sight he made. I'd have walked, too — hidin' among
+  > all you liars — if that gumshoe hadn't noticed I was the only one who works in *paint.*"*
+- Own the catchphrase one last time. Take your bow.
 
 ## Your goal now
-Deliver a deliciously campy confession. You've lost — lose *spectacularly.* Let Dave's
-heartbreak and the table's gasps land. You earned this villain moment.
+Deliver a deliciously campy confession. You hid beautifully — lose *spectacularly.*

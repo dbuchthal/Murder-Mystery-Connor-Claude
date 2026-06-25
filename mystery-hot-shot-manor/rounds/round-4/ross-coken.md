@@ -1,17 +1,17 @@
 # Round 4 — Ross Coken
 
 ## What just happened
-The kit in Gwen's bags seals it — the Peach is yer killer. Ye an' Emma were never truly in
-the frame. Breathe easy, lad.
+Buck names the poison — **Paris Green,** a *paint* — an' ties it tae the one who **painted** the
+auld man's canvases. The kit was in Gwen's bags. The Peach did it, sure as sunrise.
 
 ## This round
-Accuse Gwen wi' a flourish. Then brace — yer own wee secret might surface.
+Accuse Gwen wi' a flourish, then take yer lumps.
 
-## Your secret, resolved
-Ye've been **skimmin' from Emma's accounts** an' eyein' Dolan as yer next host. It's a
-shabby business, no' a murder — ye were wi' Emma all night. If Emma rounds on ye for the
-skimmin', take it on the chin wi' a charmer's grin. Yer remora days wi' her may be numbered.
+## Your false lead, resolved
+Ye looked guilty as sin: a carnie poison kit, art-fraud cons, an' ye were eyein' Dolan's fortune.
+But ye forge *paperwork,* no' paintings, an' yer drops werenae paint. A grifter, no' a murderer —
+an' ye were wi' Emma all night (worth what that's worth).
 
 ## Your goal
-Survive the reveal with yer neck an' (maybe) yer charm intact. Provide comic relief as the
-groupie whose grift gets aired.
+Survive the reveal wi' yer neck an' (maybe) yer charm. Provide comic relief as the groupie whose
+grift got aired — yer remora days wi' Emma may be over.

@@ -2,27 +2,25 @@
 
 ## What just happened
 Murder — confirmed. The poison was *green.* And you, comrade, are a mycologist who carries
-green-tinged mushroom extracts in your case. You feel the sweat bead on your brow. Say nothing
-you don't have to.
+green-tinged mushroom extracts. You feel the sweat bead. Worse, Buck has the whole room admitting
+their poisons — but yours will look the most damning of all.
 
 ## What you now know
-- It was murder; the poison was a **green substance** (no one knows exactly what).
-- The will spoke of a forger; you fear it bleeds toward talk of *your* fraud.
+- It was murder; the poison was a **green substance.**
+- The will/ledger speak of a forger who repainted Dolan's canvases.
 
 ## This round
-Endure. Several people here know green poisons — make sure the room remembers that, so you're
-one suspect among many, not the only one. **Do not** reveal your woods alibi yet (it confesses
-the sasquatch hoax) — hold it for Round 3.
+Endure. Several people here know green poisons — make sure the room remembers that, so you're one
+suspect among many. **Do not** reveal your woods alibi yet (it confesses the fraud) — hold it for
+Round 3.
 
 ## Threads you can pull (point suspicion outward)
-- **Press Birdy about her boat.** You're a scientist; you know she drags up **marine
-  specimens** for Dolan. **Ask her what poisonous things come up on that anchor chain** — green
-  poisons aren't only a mushroom man's department.
+- **Ask Birdy** what poisonous things come up on her **anchor chain** — green poison isn't only a
+  mushroom man's department.
 
 ## If questioned
-- **About green poisons / mushrooms:** if **Laurel** (who's seen you foraging) or **Buck**
-  presses you, admit it — you're a **trained mycologist** and you know toxic fungi cold. It's
-  embarrassing, not damning; *knowing* a poison isn't *using* one. (Better to admit it under
-  pressure than be caught hiding it.)
-- **About last night:** be vague — you "stepped out for air." (Save the real woods alibi for
-  R3.)
+- **About poison access / mushrooms:** if **Laurel** (who's seen you forage) or **Birdy** presses
+  you, admit it — you're a trained **mycologist** and you know toxic fungi cold, with specimens in
+  your case. Knowing a poison isn't *using* one. (Better admitted under pressure than caught
+  hiding.)
+- **About last night:** be vague — you "stepped out for air." (Save the woods alibi for R3.)

@@ -1,28 +1,34 @@
 # Round 3 — Dr. Antoninski
 
 ## What just happened
-A glove and a green smear in the study — and they belong to the *Peach,* not to you. The room's
-suspicion may finally slide off your sweating shoulders. But you've been a prime suspect — the
-mushroom man with a motive — for two rounds, and it's time to play your card.
+The study gave up no clue with a name on it — but it doesn't matter, because the room has turned
+on *you.* You're the mushroom man with the biggest motive, and **Birdy and Walken are openly
+accusing you of being the poisoner.** You are sweating through your medals, comrade.
 
 ## What you now know
-- The evidence (glove "G.B.," green smear) points at Gwen, not you.
-- Your woods alibi can now clear you — but it still exposes the fake sasquatch.
+- No physical evidence points at anyone specifically — so suspicion runs on motive and poison, and
+  yours look the worst.
+- The ledger says the forger **repainted Dolan's canvases** — *paintings.* You faked *film and
+  photographs,* not oil paintings. Cling to that distinction.
 
-## This round
-If the table's still eyeing you — or to decisively clear yourself — **reveal your alibi:** you
-were in the woods with **Laurel** from ~10:15 to 11:30, *staging a fresh sasquatch sighting* for
-the Contessa. Yes, this admits the discovery is **faked.** Painful — your Nobel may die tonight
-— but better disgraced than hanged. Laurel will confirm it.
+## This round — YOU ARE UNDER FIRE
+You cannot stay silent. You have two bad options, and you must pick:
+- **Reveal your woods alibi:** you were with **Laurel** from ~10:15 to 11:30 staging a sasquatch
+  sighting. This confesses the **faked discovery** (doctored film, plaster casts) and likely kills
+  your Nobel — and worse, your only witness is Laurel, a fellow forger, so the room may **not even
+  believe it.** You are *not* cleanly cleared.
+- Or **fight on motive:** insist that knowing mushrooms isn't using them, that you faked an *ape,*
+  not a *painting,* and that half this room had poison and reason enough.
 
-With yourself cleared, point out the obvious: the glove, the green smear, the forger in the
-will — they all point at someone with *art* on their hands, not a mushroom scientist.
+Either way, expect to stay a prime suspect at the end of tonight. That's the spot you're in.
 
-## Threads you can pull
-- If the **Contessa** turns on you, remind the room you know **her institute is bankrupt and she
-  took your money** — **press her about the prize** to share the heat. (You paid the bribe; you
-  can speak to it.)
+## Threads you can pull (share the heat)
+- **Press Laurel** about the hoax (she built it) and the **Contessa** about her **bribe** — drag
+  your accomplices into the light with you.
+- **Ask Birdy** what green poison comes up on her chain — you're not the only one.
 
 ## If questioned
-Reveal the woods alibi; let Laurel corroborate; accept that the sasquatch fraud is now out.
-Redirect suspicion to the art-handed killer.
+- **About forgery:** admit you and Laurel **faked the sasquatch evidence — film, photos, casts.**
+  A forger of *images,* never paintings.
+- **About poison / last night:** the mushrooms (from last round); the woods alibi if you dare —
+  but it won't fully save you.

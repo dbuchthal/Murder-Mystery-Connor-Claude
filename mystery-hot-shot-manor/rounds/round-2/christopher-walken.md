@@ -1,27 +1,28 @@
 # Round 2 — Christopher Walken
 
 ## What just happened
-Murder. Poison. And it was... *green.* And a forger, somewhere... in the art. The plot — and
-you love a plot — has thickened. *Wow.*
+Murder. Poison. And it was... *green.* And a forger, somewhere... who **painted over** the old
+man's canvases. The plot — and you love a plot — has thickened. *Wow.* Now everyone's confessing
+their poisons, which is... inconvenient... for a man who travels with crates of stage chemicals.
 
 ## What you now know
 - The poison was a **green substance.**
-- There's a forger among Dolan's art lovers — and your connoisseur's eye already told you one
-  of his paintings looked *wrong.*
+- The forger Dolan caught **repainted his paintings** — and your eye already told you one canvas
+  looked wrong.
 
 ## This round
-Perform your innocence. Remind everyone — theatrically — that you were in the **parlor all
-evening,** witnessed by many. Keep the Chappman name and the withdrawn money quiet.
+Perform your innocence; remind everyone you were in the **parlor** all evening (mostly). Keep the
+Chappman name and the pulled investment quiet.
 
 ## Threads you can pull
-- At dinner you saw **Emma corner Dolan, practically begging** about money. **Ask her what she
-  really wanted from him** — desperation is a motive.
-- Your expert eye says one of Dolan's prize canvases is a **forgery,** and **Gwen** got twitchy
-  when you noticed. The will named a *forger.* **Start pressing Gwen about that painting** —
-  the thread's worth pulling now and harder next round.
+- At dinner you saw **Emma corner Dolan, begging** about money — **ask her what she wanted.**
+- One of Dolan's canvases is a **forgery, painted over,** and **Gwen** got twitchy. **Press Gwen
+  about that painting** — and, since restorers handle toxic chemicals, **ask what's in her kit.**
 
 ## If questioned
-- **About last night:** the **parlor,** performing, with an audience the whole time (Contessa,
-  Buck, staff). Airtight.
-- **About your finances or your name:** deflect with a pause and a smile. (Save nothing for
-  free.)
+- **About poison access:** if **Emma** (a showbiz peer) or **Buck** presses you, admit it — you
+  travel with **special-effects and stage-makeup chemicals,** theatrical toxins and solvents. A
+  makeup man's kit is a poisoner's dream. Owning it isn't using it. *Wow.*
+- **About last night:** the parlor, performing — though you'll concede you slipped out between
+  numbers once or twice.
+- **About your finances or your name:** deflect with a pause and a smile.

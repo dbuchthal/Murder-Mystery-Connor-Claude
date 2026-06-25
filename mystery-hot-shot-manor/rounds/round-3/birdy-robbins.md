@@ -1,31 +1,29 @@
 # Round 3 — Birdy Robbins
 
 ## What just happened
-They searched the study and turned up a peach glove monogrammed **G.B.** and a green smear on
-the glass. The narrator just said someone was up at eleven o'clock and *saw* who was really in
-the study wing. That someone, sugar, is **you.** It's time to drop your anchor.
+They searched the study and turned up no clue with a name on it — just green on the glass. The
+ledger says the forger repainted Dolan's canvases. And Buck's got the whole room ownin' up to
+their fakes — your turn's comin'.
 
 ## What you now know
-- The glove and green smear point at Gwen Buchthal — "the Georgia Peach."
-- What you saw last night now fits like a key in a lock.
+- No physical clue points at anyone.
+- The forger Dolan caught works in **paint** — not your line; you *move* art, you don't make it.
 
-## This round — YOUR BIG MOMENT
-**Reveal what you saw.** Around **11:00 PM,** when you came back inside for your forgotten keys,
-you **saw Gwen Buchthal hurrying out of the study wing** — *not* heading upstairs to bed like
-she claimed, but coming *away from Dolan's study.* And you half-noticed **something
-peach-colored dropped on the floor** by the door (the glove). Say it plainly. This is the clue
-that breaks her alibi.
-
-Expect Gwen to attack you. Hold your course — you know what you saw.
+## This round
+Keep your head. Own what you must, but stay no more suspicious than the rest.
 
 ## Threads you can pull
-- That valet **Buck** is no valet. If he's pressed you with his notebook, **turn it back on
-  him: ask the room why a manservant investigates like a cop.** (Let him explain himself.)
+- **REQUIRED — push Kristof as the poisoner:** the Soviet carries **poison mushrooms** and had
+  every reason to want Dolan silenced. **Press him hard** — make him account for his green poison
+  and where he really was. His only alibi is Laurel, and the two of 'em lie for a living.
+- You can also **call out Buck** — a valet who investigates like a cop and *carried the glass.*
 
 ## If questioned
-- **About your finances:** if **Dave** (the numbers man) or **Buck** presses you about where
-  Dolan's grant money went, admit it — the fleet's been **runnin' contraband and skimmin'
-  grants,** and there's an audit comin'. But stress: that's exactly why you needed Dolan
-  **alive.** His death *sinks* you; you'd never kill your own meal ticket.
-- **About the kelp:** you already own that your chain hauls up toxic green slime — but you dump
-  it at sea; you didn't carry any into this house.
+- **About fraud / smuggling:** if **Dave** (the numbers man) or **Buck** presses you, admit it —
+  the fleet runs **contraband,** and yes, you've moved **crates of forged and stolen art** off the
+  islands. You *smuggle* fakes; you couldn't paint one. The IRS is circlin' — which is why you
+  needed Dolan **alive.**
+- **About what you saw:** you may now report glimpsing **a figure leave the study wing at ~11:00**
+  — but you **could not tell who** in the dark. It proves someone was sneakin' about; it names no
+  one (and it puts *you* near the study too).
+- **About poison:** the toxic kelp (from last round) — and others were near your boat.

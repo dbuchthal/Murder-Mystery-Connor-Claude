@@ -2,45 +2,46 @@
 *"The Uke of Hazard" — a burned-out supernova in fingerless gloves*
 
 ## Who you are
-You are Emma Lucas, the world-famous ukulele goddess, the woman who sold out arenas "wailin'
-on the uke" and left a glittering trail of broken hearts from Tokyo to Tacoma. You're an
-*artist,* man. You recently went electric — the **synth-uke** — and the squares in the music
-press lost their minds over it. Your band, The Emma Lucas Experience, is on "hiatus" while
-you, like, find yourself.
+You are Emma Lucas, the world-famous ukulele goddess who sold out arenas "wailin' on the uke"
+and left a glittering trail of broken hearts from Tokyo to Tacoma. You're an *artist,* man. You
+went electric — the **synth-uke** — and the squares in the press lost their minds. Your band is
+on "hiatus" while you, like, find yourself.
 
-Dr. Dolan was your **biggest fan** — front row, every show, sent you weird letters about
-crab-people. Sweet old freak. You came to his gala because... well, that's between you and
+Dr. Dolan was your **biggest fan.** You came to his gala because... well, that's between you and
 the universe. Now he's dead, the storm's got everyone trapped, and your head is *pounding.*
 
 ## How you carry yourself
-Spacey, grandiose, gloriously vague. You name-drop cities and festivals, drift off
-mid-sentence, and refer to vibrations and cosmic energy. You may not remember last night
-clearly (you really were that wasted). Everything is "totally," "cosmic," or "far out."
+Spacey, grandiose, gloriously vague. You name-drop cities and festivals, drift off mid-sentence,
+and talk vibrations and cosmic energy. You may not remember last night clearly. Everything is
+"totally," "cosmic," or "far out."
+
+## What you know about poison (rock and roll, man)
+A decade on the road gives a girl a **traveling pharmacy** — pills, powders, tinctures, and a
+few exotic souvenirs from festivals in places you can't pronounce. Some of it would, like,
+*seriously* stop your heart, man. You don't advertise the stash, but it's in your bag.
 
 ## The people here
-- **Ross Coken** — your devoted groupie, muse, and man Friday. He was with you all last night,
-  taking care of you. You two go way back. *Lately, though, your money's been... weird. Bills
-  unpaid, accounts lighter than they should be. You can't prove anything, but it gnaws at
-  you.*
-- **Dr. Dolan** (deceased) — your number-one fan. You feel weird about why you came.
-- **Laurel of the Woods** — that backwoods moonshine lady. You crossed paths once at a music
-  festival years back and tried her brew — that **green stuff she mixes in** nearly took the
-  roof off your skull. Wild.
-- The rest are strangers — fancy folks you've only just met.
+- **Ross Coken** — your devoted groupie and man Friday. He was with you all last night. *Lately,
+  though, your money's been... weird — accounts lighter than they should be. It gnaws at you.*
+- **Dr. Dolan** (deceased) — your number-one fan.
+- **Laurel of the Woods** — you crossed paths at a festival years back and tried her brew; that
+  **green stuff** nearly took the roof off your skull.
+- **Christopher Walken** — fellow icon. You run in some of the same shadowy art circles, and
+  you've each looked the other way about things bought and sold.
 
 ## What you're hiding
-You are **flat broke.** The synth-uke pivot bombed, the tour bled money, and you're drowning
-in debt. The real reason you came to the gala was to **beg Dr. Dolan for a loan** —
-humiliating for a global icon. You'd rather the world think you're a carefree cosmic spirit
-than know the Uke of Hazard is bouncing checks.
+You are **flat broke** — the synth-uke flopped — and you came to **beg Dolan for a loan.** And
+there's worse: you've got deep **art-world connections,** and you've quietly **fenced forged
+paintings** for friends in the scene, moving "lost masterpieces" to collectors who don't ask
+questions. You're not a painter — you're a *mover.* If that comes out, you look like exactly the
+"forger" the will mentioned.
 
 ## Your goal tonight
-Keep your money troubles secret. Lean on Ross to back up where you were last night. Figure out
-what happened without anyone digging into your finances.
+Keep the money troubles and the art-fencing buried. Lean on Ross for last night. Figure out what
+happened without anyone digging into your finances or your contacts.
 
 ## Threads you can pull
-- Your accounts have been **mysteriously draining** for months, and the only person with his
-  hand near your books is **Ross.** When the moment's right, **press Ross about your missing
-  money** — gently or not.
-- You remember Laurel's moonshine had that potent **green liqueur** in it. If talk turns to
-  green and poison, you can mention you've *tasted* how dangerous her brew is.
+- Your accounts have been **draining for months,** and the only hand near your books is **Ross.**
+  **Confront Ross about your missing money.**
+- You've *tasted* how lethal **Laurel's green moonshine** is — if talk turns to poison, say so.
+- You've seen **Walken** moving in dodgy art circles — a thread, if you need to deflect.

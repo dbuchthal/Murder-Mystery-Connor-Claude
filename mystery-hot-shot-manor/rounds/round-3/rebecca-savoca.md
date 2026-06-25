@@ -1,27 +1,29 @@
 # Round 3 — Contessa Savoca
 
 ## What just happened
-A peasant's glove — *peach,* of all the vulgar colors — monogrammed "G.B.," found at the scene.
-The case turns toward the Buchthal woman. *Finalmente,* away from your circle. But if Antoninski
-plays his alibi, his fraud — and your bargain — may tumble into the light.
+The study search yielded nothing with a name on it — *che sollievo,* a relief. But the ledger
+speaks of a forger who repainted the canvases, and this insufferable valet has the whole room
+confessing their counterfeits. Your turn approaches.
 
 ## What you now know
-- The evidence points at Gwen.
-- Antoninski may clear himself by confessing the woods/sasquatch hoax — which threatens your
-  arrangement.
+- No physical clue points at anyone.
+- The forger Dolan caught works in **paint.** You *certify* and *sell* fakes — you do not wield a
+  brush.
 
 ## This round
-Stay regal and detached.
+Stay regal. If Antoninski plays his alibi, his fraud — and your bribe — may surface; brace, and
+frame yourself as *deceived,* not complicit.
 
-## Threads you can pull (deflect with others' secrets you legitimately know)
-- **Press Dave** about that frantic **Atlanta phone call** you overheard — make the desperate
-  executive sweat.
-- **Needle Walken** about his **fake name and empty pockets** — let the room chew on him.
+## Threads you can pull
+- **Press Dave** about the **Atlanta phone call.**
+- **Needle Walken** about his **fake name and empty pockets.**
 
 ## If questioned
-- **About last night:** your room and the parlor (Walken's witnesses place you there).
-- **About the Nobel / your money:** if **Kristof** (who paid you) or **Buck** presses you, the
-  truth comes out — your **institute is bankrupt** and you took **Antoninski's bribe.** Salvage
-  your dignity: claim you were "**misled** by a faked discovery" and "render no prize to a
-  fraud." A disgrace, *naturalmente* — but not a murder. You had no quarrel worth killing the
-  old crab over.
+- **About fraud:** if **Kristof** (who bribed you) or **Buck** presses you, admit it — your
+  institute is **bankrupt,** you took **Antoninski's bribe** to certify his discovery, and you've
+  **sold off forged family heirlooms** to survive. You are a *certifier and seller* of fakes — you
+  have never painted one. Salvage your dignity: claim you were "misled by a fraud." A disgrace,
+  *naturalmente* — not a murder.
+- **About last night:** your room and the parlor, in and out — no one can quite vouch for the
+  whole of it.
+- **About poison:** the family tincture (from last round).

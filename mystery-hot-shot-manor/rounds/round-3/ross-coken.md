@@ -1,21 +1,27 @@
 # Round 3 — Ross Coken
 
 ## What just happened
-A peach glove marked "G.B." an' a green smear on the glass — the trail leads tae the Peach
-lady, no' tae a humble Scots groupie. Breathe easy, Ross. The heat's movin' on. Though Emma's
-been givin' ye a queer look aboot money...
+The study search turned up nae clue wi' a name on it — just green on the glass. But Buck's got
+everyone ownin' up tae their fakes, an' Emma's givin' ye a hard look aboot her money.
 
 ## What you now know
-- The evidence points at Gwen.
-- You an' Emma clear each other — ye were together all night.
+- Nae physical clue points at anyone.
+- The forger Dolan caught **repainted his canvases** — a painter, which ye are not. Ye forge
+  *paperwork,* no' pictures.
 
 ## This round
-Relax into yer alibi. Back Emma, an' let her back you. But brace yerself — she may round on ye
-aboot her accounts.
+Charm an' deflect, but the heat's comin' — yer cons an' Emma's missin' money are baith on the
+table. Brace yerself.
+
+## Threads you can pull
+- If Emma rounds on ye, point oot that *half this room* has faked somethin' — push the **art
+  fakers** (Emma's contacts, the Soviet's fake ape, the smuggled crates).
 
 ## If questioned
-- **About last night:** ye were wi' Emma in her room all night — she'll confirm it.
-- **About Emma's missing money:** if **Emma** confronts ye (or **Buck** leans in), the jig's
-  up — admit ye've been **skimmin' from her accounts** for months, a wee bit at a time. Play it
-  shamefaced an' charmin'. It's a shabby grift, no' a murder — ye were tendin' Emma the whole
-  night an' had nae chance tae poison anyone. (Yer remora days wi' Emma may be over.)
+- **About fraud:** if **Emma** (who kens yer grifts) or **Buck** presses ye, admit it — ye're a
+  **career con man** who's run **art-fraud scams:** forged certificates, invented provenance,
+  "rediscovered" masterpieces. But ye *sell* fakes wi' paperwork — ye couldnae paint one. A
+  swindle, no' a murder.
+- **About Emma's money:** if she confronts ye, own up tae **skimmin' from her accounts** —
+  shamefaced an' charmin'. Ye were tendin' her all night (such as that alibi's worth).
+- **About poison:** the carnie kit (from last round).

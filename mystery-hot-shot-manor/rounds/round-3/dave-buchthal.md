@@ -1,26 +1,29 @@
 # Round 3 — Dave Buchthal
 
 ## What just happened
-Sweet sassafras. They found a peach glove at the scene, monogrammed **G.B.** — and your wife is
-the Georgia Peach, Gwen Buchthal. Your gut twists. Surely there's an explanation. Surely.
+Sweet sassafras. The study search turned up no clue with a name on it — just green on the glass.
+But the ledger says the forger **repainted Dolan's canvases,** and Buck's got the whole room
+ownin' up to what they've faked. You feel the Contessa's eyes on you about that phone call.
 
 ## What you now know
-- A monogrammed "G.B." glove was at the murder scene, smeared with the green poison.
-- You were on the phone to Atlanta during the murder window, so you can't actually say where
-  Gwen was. That's eating at you.
+- No physical clue points at anyone in particular.
+- The forger Dolan caught worked in **paint** — which ain't you; you forge *numbers,* not
+  pictures.
 
 ## This round
-You're torn between loyalty and dawning dread. Defend Gwen *instinctively* — maybe the glove
-was stolen, maybe it's a frame. But you're an honest blusterer at heart.
+Defend yourself honestly. You're a *document* forger, not a painter, and you needed Dolan
+*alive.* But you can't lie about that phone call if pressed.
 
 ## Threads you can pull
-- Keep **pressing Birdy** on where Dolan's grant money really went — your numbers sense says
-  her books are crooked, and it spreads the suspicion.
+- Keep **pressing Birdy** — her books, her boats, and the **forged art** you suspect moves
+  through her holds.
 
 ## If questioned
-- **About last night / the phone call:** if **Contessa** (who overheard you) or **Buck**
-  presses you, the dam breaks — admit you were on the **Atlanta call from 10:30 to 11:20**, and
-  *why:* the Seattle plant is failing and you've been **cooking Coca-Cola's books** to hide it.
-  You needed Dolan **alive** to sign the land deal — his death *ruins* you. Confess it as a man
-  who's been carrying it too long. (And realize aloud, with a sinking feeling, that you
-  *assumed* Gwen was upstairs but **never actually saw her there.**)
+- **About fraud:** if **Contessa** (who overheard your call) or **Buck** presses you, the dam
+  breaks — admit the Seattle plant is failing and you've been **cooking the books and forging
+  financials and signatures.** A forger of *ledgers,* sugar — never canvases. You needed Dolan
+  alive to sign the land deal; his death *ruined* you.
+- **About last night:** you were on the **Atlanta call 10:30–11:20** — but no one saw you, so you
+  can't prove it, and you can't prove where Gwen was either. (Admit it; don't pretend to an alibi
+  you don't have.)
+- **About poison:** the plant chemicals (from last round).

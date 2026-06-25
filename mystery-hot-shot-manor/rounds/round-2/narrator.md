@@ -1,63 +1,67 @@
 # Round 2 — Narrator
-### "The Body Speaks"
+### "Everybody's Got Poison"
 
 ## Read aloud
 
-*(The smoke's settled. The body's still here. Somebody put on a Phil Collins record and
-nobody's brave enough to turn it off.)*
+*(The smoke's settled. The body's still here. Somebody put on a Phil Collins record and nobody's
+brave enough to turn it off.)*
 
-So you cracked the box. You read the dead man's poison-pen will. And now the whole room's
-lookin' sideways at each other, wonderin' which one of you is the "thief and forger" old Dolan
-promised to unmask. Cute. But here's the thing nobody's said out loud yet, so allow your
-humble valet — and, full disclosure, your humble *private detective* — to say it:
+So you cracked the box. You read the dead man's poison-pen will, and now the whole room's lookin'
+sideways at each other, wonderin' which one of you is the "thief and forger" old Dolan promised
+to unmask. Cute. But allow your humble valet — and, full disclosure, your humble *private
+detective* — to say the part nobody's said out loud:
 
 **Dr. Dolan didn't die of a bad heart. Dr. Dolan was murdered.**
 
-See, I've worked enough corpses in my Baltimore days to know one that's been *helped* along.
-So this mornin', while you were all still rubbin' the sleep outta your eyes, I gave the study a
-proper toss and the body a proper look. And I found somethin' in that buttermilk glass. His
-nightly nightcap — the one *I* brought him at ten o'clock, clean as a whistle — had a little
-extra ingredient by the time he drank it.
+I've worked enough corpses in my Baltimore days to know one that's been *helped* along. So this
+mornin' I gave the study a toss and the body a look, and I found somethin' in that buttermilk
+glass. His nightly nightcap — the one *I* brought him at ten o'clock, clean as a whistle — had a
+little extra ingredient by the time he drank it.
 
 *(produces a slip — the "coroner's note")*
 
-The residue in the glass was **green.** A **green, poisonous substance** — settled in the
-bottom of the milk like pond scum. I don't have a fancy lab to tell me exactly *what* it is,
-not yet. But I know poison when I see it, and I know it was green, and I know it went into that
-glass sometime after ten o'clock, while half this house was wanderin' loose in the dark.
+The residue was **green.** A **green, poisonous substance,** settled in the milk like pond scum.
+I don't have a fancy lab to tell me exactly *what* it is — not yet. But I know poison when I see
+it, it was green, and it went in sometime after ten o'clock, while every last one of you was
+wanderin' loose in a dark house.
 
 *(beat)*
 
-Now that's a funny color for a poison, ain't it? *Green.* Makes a fella wonder who in this
-fine company knows their way around somethin' green and deadly. Mushrooms. Brews. Things that
-come up out of the cold salt water. You'd be surprised, party people, how many green poisons
-can fit in one drafty manor.
+Now here's the kicker, party people. I started askin' a few quiet questions this mornin', and you
+want to know what I learned? **Every single one of you knows your way around a poison.** Mushrooms
+and moonshine. Sea-slime and stage-blood. Plant chemicals, party powders, old family tinctures,
+carnival drops. I've got a moonshiner missin' a jug, a boat that had visitors at the dock, and a
+houseful of people who all, suddenly, look very pale.
 
-Start talkin'. Somebody here knows more than they're lettin' on. They always do.
+So nobody gets to stand in the corner lookin' innocent tonight. Start talkin'. Let's hear what
+each of you keeps in your bag. They always keep somethin'. They always do.
 
 ## Host notes (do not read aloud)
 
-- **Clue 1 lands here, deliberately ambiguous:** the weapon is **"a green poisonous
-  substance."** Do **NOT** name it. ("Paris Green," "pigment," and "arsenic" are R4 words.)
-  The point of this round is to make the table realize *several* guests know green poisons.
-- **Poison-skill secrets to surface this round (questioned per the bible §7b, revealed by the
-  holder):**
-  - **Antoninski is a mycologist** who carries poisonous-mushroom extracts. *Laurel* (saw him
-    foraging) and *Buck* (lead) press him; he admits it.
-  - **Laurel cuts her moonshine with potent green liqueurs.** *Kristof* (drank it in the woods)
-    and *Emma* (tried it at a festival) press her; she admits it.
-  - **Birdy hauls up toxic green kelp** on her anchor chain. *Kristof* (curious scientist) and
-    *Buck* (lead) press her; she admits it.
-  - Result: **three openly green-poison-capable suspects** now loom (and a fourth, Gwen, whose
-    pigment stays hidden). Suspicion should spread, not narrow.
-- **Other clues this round:**
-  - **Buck**: confirms the nightcap was **clean at 10:00** (poison added after) and produces
-    Dolan's **forgery ledger** — proof a guest was forging his art (reinforces **clue 3**,
-    motive; does **not** name Gwen).
-- **How to nudge if stuck:** "A *green* poison — who here works with green and deadly?" Point
-  questioners at their targets (Laurel→Kristof, Kristof→Birdy, Emma→Laurel). If the forgery
-  thread stalls, have Buck lay the ledger on the table.
-- **Gwen** will push "natural causes / weak heart" and stay quiet — let her; she has no
-  knowledge of the others' secrets to weaponize.
-- **Mechanics & timing:** ~25 min. Hand out R2 handouts at the top. Props: a "coroner's note"
-  (green residue) and the "forgery ledger" (envelopes) for Buck.
+- **Clue 2 lands here, deliberately ambiguous:** the weapon is **"a green poisonous substance."**
+  Do **NOT** name it. ("Paris Green," "pigment," "arsenic," "paint poison" are R4 words.)
+- **GOAL OF THE ROUND: make everyone a poison suspect.** Work the room so **every guest's poison
+  access is questioned and admitted** (questioners per bible §7c):
+  | Guest | Admits (when pressed) |
+  |---|---|
+  | Antoninski | trained **mycologist** — poison-mushroom extracts |
+  | Laurel | **green-liqueur** moonshine — *and a strong jug went **missing** at the party* |
+  | Birdy | toxic **green kelp** on the chain — *and other guests were poking around her boat* |
+  | Dave | a **bottling plant** full of industrial/caustic chemicals |
+  | Emma | a touring **rock-star pharmacy** of pills and powders |
+  | Ross | a **carnie kit** — chloral knockout drops, tinctures |
+  | Walken | **special-effects / stage-makeup** toxins |
+  | Contessa | the Savoca family's **"medicinal" poisons** (old Sicilian poisoner heritage) |
+  | Gwen | a restorer's **solvents and chemicals** (generic — she does NOT reveal pigment) |
+  | Buck | an ex-cop who's **handled every poison** — and **carried the fatal glass** |
+- **The stolen jug + the boat lurkers** mean even a guest without their own poison could've used
+  someone else's — so *no one* is excluded on means. That's the point.
+- **Buck** also reveals: the nightcap was **clean at 10:00** (poison added after), and produces
+  Dolan's **ledger** — the forgery Dolan caught was **painting forgery** (someone repainted and
+  swapped his canvases). Reinforces **clue 1**; sets up R3's forgery web.
+- **How to nudge if stuck:** point each questioner at their target ("Laurel, didn't you say a jug
+  went missing?"; "Doctor, what's a sasquatch hunter want with mushrooms?"). If anyone protests
+  innocence, remind them of the missing jug and the unlocked boat.
+- **Gwen** stays calm and admits only the generic restorer's chemicals — never the pigment.
+- **Mechanics & timing:** ~25–30 min. Props: a "coroner's note" (green residue, *unnamed*) and
+  the "forgery ledger."

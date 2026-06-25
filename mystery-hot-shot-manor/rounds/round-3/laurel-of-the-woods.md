@@ -1,28 +1,29 @@
 # Round 3 — Laurel of the Woods
 
 ## What just happened
-They found a green smear and a peach glove with "G.B." on it — pointin' squarely at the Georgia
-Peach, sugar, not at you. Things are lookin' up for a backwoods gal.
+They searched the study and found no clue with a name on it, sugar — just green on the glass. But
+the room's turned on Antoninski about his mushrooms, and if he spills the woods alibi, your whole
+sasquatch racket comes tumblin' out with it.
 
 ## What you now know
-- The evidence points at Gwen.
-- Your woods alibi (with Antoninski) can clear you both — at the cost of the sasquatch secret.
+- No physical evidence points at anyone.
+- The forger Dolan caught **repainted his canvases** — paintings. You build *suits and props and
+  doctored film,* not oil paintings.
 
 ## This round
-If Antoninski reveals the woods alibi, **confirm it:** you were with him from ~10:15 to 11:30,
-out in the trees staging a sasquatch "sighting" for the Contessa. Yes — that means *you built
-the hoax,* and now it's out. It stings (there goes the gravy), but it clears you both of murder,
-which beats a noose.
-
-With that off your back, twang your two cents: "A green smear an' a fancy glove at the scene?
-That dog'll hunt toward somebody who works with their *hands,* sugar — not my jugs."
+Decide, with Antoninski, whether to play the woods alibi. It clears you both of the *murder*
+window — but only by confessin' you **built the fake sasquatch,** and folks don't trust a known
+faker, so don't expect to walk away clean.
 
 ## Threads you can pull
-- If suspicion swings back toward green poisons, remind the room you saw **Antoninski foraging
-  mushrooms** — but he's already owned that, and you're both alibied, so use it only to point
-  away from your moonshine.
+- If the heat's on you, remind the room **Antoninski's the mushroom man** — and that a jug of your
+  own green brew was *stolen,* so your poison's loose in this house through no fault of yours.
+- You can smell **Ross's** carnie poison kit — point at him too.
 
 ## If questioned
-Confirm the woods alibi and own up to building the fake sasquatch. Stress your green moonshine
-never left your jugs and never touched that buttermilk. Point the finger where the evidence
-points — at Gwen.
+- **About forgery:** if **Kristof** (your accomplice) or **Buck** presses you, admit it — you
+  **sewed the sasquatch suit, cast the prints, and doctored the film and photographs** for his
+  Nobel. A hands-on faker — of *creatures and film,* never paintings.
+- **About last night:** the woods with Antoninski, ~10:15–11:30 (worth what one faker's word is to
+  another).
+- **About poison:** the green liqueur + the stolen jug (from last round).

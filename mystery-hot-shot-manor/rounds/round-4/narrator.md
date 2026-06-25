@@ -1,21 +1,20 @@
 # Round 4 — Narrator
-### "Accusation & Reveal"
+### "The Fusion"
 
 ## Read aloud (Part 1 — open the floor)
 
 *(The storm's at its worst. Thunder like a kettledrum. The lights flicker — keep a flashlight
-handy, it's a nice touch.)*
+handy.)*
 
-Well, hot shots, the night's almost spent and the body's gettin' no warmer. We've got a dead
-crab-doctor, a glass of green poison, a forger's ledger, a peach glove with somebody's initials
-on it, and an eyewitness who saw a certain someone slinkin' outta the study at the witchin'
-hour. We've heard a whole choir of confessions tonight — embezzlers, skimmers, a fake sasquatch,
-a bought prize, a pop star with empty pockets — but not one of those grubby little secrets is
-*murder.* The bridge is still down. The cops still aren't comin'. The only justice Dr. Dolan's
-gettin' is the kind *you* hand down, right here, right now.
+Well, hot shots, here we are. A dead crab-doctor, a glass of green poison, and a houseful of
+people who — let's be honest — *all* look guilty as sin. Every one of you keeps a poison: mushrooms,
+moonshine, sea-slime, plant chemicals, party powders, carnival drops, stage paint, an old family
+vial. And every one of you has faked *something:* a discovery, a provenance, a set of books, a
+name, a certificate, a smuggled canvas. Nobody's got a clean alibi. On paper, I could pin this on
+any chair at this table.
 
-So here's how it goes. Everybody who's got an accusation — make it. Lay out who you think iced
-the doctor and why. Then we **vote.** Point your fingers, party people. Make 'em count.
+So let's do it properly. Everybody who's got an accusation — make it. Tell me who you think iced
+the doctor, and why. Then we **vote.** Point your fingers, party people. Make 'em count.
 
 *(Run the accusations and the vote — see host notes. Then read Part 2.)*
 
@@ -23,79 +22,79 @@ the doctor and why. Then we **vote.** Point your fingers, party people. Make 'em
 
 *(After the vote. Slow. Let it land.)*
 
-You want to know what that green poison was? I had one card left to play. While you were all
-busy pointin' fingers, I sat down with that buttermilk glass and the green smear off the desk,
-and I matched 'em against everything in this house. It wasn't mushroom, like the doctor's. It
-wasn't moonshine, like Laurel's green brew. It wasn't kelp off Birdy's chain. No, sweethearts —
-it was **paint.**
+Here's the trouble with a room full of fakers and poisoners: the poison points everywhere, and
+the fakery points everywhere, so neither one alone tells you a blessed thing. You gotta put 'em
+*together.* So I asked myself two questions.
 
-**Paris Green.** An emerald pigment, loaded with arsenic, the kind old masters ground into
-their oils — and the kind a skilled *art restorer* keeps in her kit. So I searched the guests'
-luggage. And in one particular suitcase — tucked under the silk and the Southern charm — I found
-a traveling **art-restoration kit.** Brushes, solvents, and a jar of emerald powder. **Paris
-Green.** A perfect match for what was swimmin' in the doctor's last glass of milk.
+**Question one: what was the poison, exactly?** I finally matched that green residue against every
+nasty thing in this house. It wasn't mushroom. Wasn't moonshine. Wasn't kelp, or plant cleaner, or
+carnival drops, or a Contessa's tincture. No, sweethearts — it was **paint.** *Paris Green* — an
+emerald pigment, loaded with arsenic, the kind an oil painter grinds into their colors.
 
-The kit belongs to the lady who swore she'd never touched a paintbrush in her life. The lady
-whose peach glove turned up at the scene. The lady an eyewitness saw fleein' the study at
-eleven o'clock while she *claimed* to be tucked up in bed. The lady the doctor's ledger was
-about to name as the **forger** bleedin' his collection dry.
+**Question two: what did the forger actually forge?** The ledger told us: this forger didn't fake
+*film* like the Doctor, or *papers* like the groupie, or *books* like Big Daddy, or *names,* or
+*certificates,* or smuggle canvases like the Captain. This forger **repainted the masterpieces
+themselves.** With a brush. With *paint.*
+
+*(beat)*
+
+Now lay those two answers on top of each other. The killer poisoned the old man with **paint** —
+and the killer **forged his paintings.** Out of ten fakers and ten poisoners, only **one** soul
+sits in *both* circles: the one who works in oils. So I searched the luggage, and in one suitcase,
+tucked under the silk and the Southern charm, I found an **art-restoration kit** — brushes,
+solvents, and a jar of emerald powder. **Paris Green.** A perfect match for the doctor's last glass
+of milk.
 
 *(turn to her)*
 
-**Gwen Buchthal. The Georgia Peach.** You forged his paintings, you sold the originals, and
-when the old man caught you and threatened to spill it to the world, you stirred your own
-emerald poison into his nightcap and left him to die over his puzzle box. *My peaches — what a
-sight.*
+**Gwen Buchthal. The Georgia Peach.** You forged his paintings, you sold the originals, and when
+he caught you and threatened to spill it to the world, you killed him with the very pigment of
+your crime. *My peaches — what a sight.*
 
-## The deduction (read or paraphrase — the clue-chain)
-1. **The poison was green** — and at first that pointed at *four* people who keep green poisons:
-   Antoninski (mushrooms), Laurel (green liqueur), Birdy (toxic kelp), and the killer's hidden
-   pigment.
-2. **Three of those four had airtight alibis** for the murder window: Antoninski and Laurel
-   were in the woods together; Birdy was at the docks (and needed Dolan *alive*). That leaves
-   one green-poison suspect with no alibi.
-3. **The green at the scene was a dry *smear* — a pigment, not a brew.** Tonight it was
-   identified as **Paris Green,** an *artist's* poison — which fits a restorer, not a mushroom
-   man, a moonshiner, or a fisherman.
-4. **Motive:** Dolan's will and ledger proved a guest was **forging his art**, and Walken's eye
-   confirmed a canvas was fake — pointing at Gwen, the art expert who got twitchy about it.
-5. **Opportunity & evidence:** Gwen lied about being in bed (Birdy *saw* her leave the study;
-   Dave's phone call meant no one could vouch for her), her monogrammed glove was at the scene,
-   and her own kit held the matching Paris Green. Means, motive, opportunity — all hers, and
-   hers alone.
+## The deduction (read or paraphrase — the art × poison fusion)
+1. **Everyone had a poison and everyone had a fraud** — so neither, alone, names a killer. That's
+   why no single clue could solve it.
+2. **The poison was Paris Green — an oil-paint pigment** (identified tonight). Not mushroom, kelp,
+   liqueur, plant chemical, drop, or tincture.
+3. **The forgery Dolan caught was *painting* forgery** — repainted, swapped canvases (ledger +
+   Walken's painted-over canvas). Not faked film, papers, books, names, certificates, or smuggled
+   art.
+4. **Only one person forges paintings *and* works in paint:** Gwen, the trained restorer who
+   grinds her own pigments — confirmed by the Paris Green in her kit. The murder weapon *was* her
+   forger's medium. **Means, motive, and method fuse on her alone.**
 
-## Red-herring resolutions (read the wrap so everyone learns why they were suspicious)
-- **The three "green poison" suspects:** **Antoninski** (mushroom toxins) and **Laurel** (green
-  liqueur) alibied each other in the woods staging the **faked sasquatch**; **Birdy's** toxic
-  **kelp** never left her boat and she needed Dolan alive. Their poison know-how was real — their
-  guilt wasn't.
-- **Dave** shares the initials "G.B." (Buchthal) and was desperate for the land deal — but he
-  was on the **Atlanta phone line** 10:30–11:20 and Dolan's death *ruined* him. Secret: cooking
-  Coca-Cola's books.
-- **Birdy** got Dolan's grant money with the IRS circling — but his death triggers the audit
-  that sinks her. Secret: smuggling/skimming. She's also the hero eyewitness.
-- **Emma & Ross** alibi each other (her room). Emma's secret: she's broke and came to beg a
-  loan. Ross's: he's been skimming from Emma.
-- **Christopher Walken** secretly pulled his investment and hid his real name (Chappman) — but
-  he performed in the parlor before witnesses, and his connoisseur's eye actually helped catch
-  the forgery.
-- **Contessa Savoca** took Antoninski's bribe and is secretly bankrupt — a scandal, not a
-  murder.
-- **Buck** brought the nightcap (clean!) and was your detective all along.
+## Resolving the web of false leads (read the wrap — everyone learns why they were a suspect)
+- **Kristof** — poison mushrooms + a blazing motive, but he forged a *sasquatch* (film & casts),
+  not paintings, and his poison wasn't paint.
+- **Laurel** — green moonshine (a jug even went missing!) + built the hoax, but she fakes
+  *creatures and film,* not canvases.
+- **Birdy** — toxic kelp + smuggled forged art, but she *moves* art, doesn't paint it; her poison
+  wasn't paint; and she's the one who saw the figure in the dark.
+- **Ross** — carnival drops + art-fraud cons, but he forges *paperwork,* not paintings.
+- **Emma** — a touring pharmacy + fenced forged art, but she's a *mover,* not a maker.
+- **Walken** — stage toxins + a fake identity, but his fakery is *name and fashion;* his eye
+  actually *caught* the forged canvas.
+- **Contessa** — family poisons + certified/sold fakes, but she *authenticates,* she doesn't
+  paint.
+- **Dave** — plant chemicals + forged financials, but he forges *documents;* and he needed Dolan
+  alive to sign the land deal.
+- **Buck** — handled the glass and faked the odd document, but the nightcap was clean at 10:00 and
+  he's the detective who cracked it.
+- Only **Gwen** forged *paintings* and poisoned with *paint.*
 
 ## Host notes (do not read aloud)
-- **The weapon is named for the FIRST time in this round.** Until now players knew only "a green
-  poisonous substance." The identification as **Paris Green** + the matching **kit** is the
-  decisive **clue 5**.
-- **Running the accusations & vote:** Each player names a suspect with one reason, then vote
-  (hands or secret ballot). Tally aloud — it's for drama; the reveal is fixed: **Gwen.**
-- **Props:** present a small art-restoration kit with a jar labeled "Paris Green." Buck delivers
-  it.
-- **Gwen's player:** see her R4 handout — she resists, then cracks (villain monologue
-  encouraged).
-- **If players accused the wrong person:** walk the clue-chain above to show the five clues
-  converge uniquely on Gwen, and use the red-herring wrap so each suspect learns why they looked
-  guilty.
-- **Awards (optional):** Best Alibi, Best Accent, Most Tragic Secret, "The Crab-People Would Be
-  Proud" — handed out by the Dolan-ghost.
-- **Timing:** ~35–40 min including accusations, vote, reveal, and wrap.
+- **The weapon is named for the FIRST time this round** — Paris Green, an oil-paint pigment. This
+  identification + the ledger's *painting* forgery is the whole solution; there is **no glove and
+  no naming eyewitness** by design.
+- **The fair "aha":** an attentive player can reach Gwen at the vote by reasoning "the murderer
+  used their own forgery medium as the poison — who forges *paintings*?" even before the lab word;
+  the Paris Green ID + kit confirm it.
+- **Running the vote:** each player accuses with one reason, then vote; tally aloud. The reveal is
+  fixed: **Gwen.**
+- **Props:** a small restoration kit with a jar labeled "Paris Green." Buck delivers it.
+- **Gwen's player:** resist, then crack (villain monologue encouraged — see her R4 handout).
+- **If players accused the wrong faker:** that's expected — walk the fusion above and the
+  false-lead wrap so everyone sees why their suspect *almost* fit but sat in only one circle.
+- **Awards (optional):** Best Alibi (ironic — no one had one), Best Accent, Most Tragic Secret,
+  "The Crab-People Would Be Proud."
+- **Timing:** ~35–40 min.

@@ -1,30 +1,31 @@
 # Round 3 — Gwen Buchthal
 
 ## What just happened
-*Disaster, sugar.* They searched the study. They found a green smear on the glass — and they
-found your **peach glove, monogrammed G.B.,** dropped by the door. Your stomach is in your
-shoes. This is the worst possible turn, and you must not show it for one *second.*
+They searched the study — and *praise be,* they found almost nothing. Just a smear of green on
+the glass, no glove, no name. But the ledger says the forger **repainted Connor's canvases,** and
+that dreadful Walken keeps eyeing you about a *painting.* Stay sweet. Stay calm.
 
 ## What you now know
-- The glove ties you to the scene. The green smear ties the glove to the murder.
-- Someone may have **seen** you near the study (you don't know who, but it's coming).
-- That dreadful Walken keeps eyeing you about a *painting.* Dangerous.
-- Your "in bed" alibi is now in mortal danger.
+- The scene gave up no clue pointing at you (no glove, thank heaven).
+- The ledger says the forger works in **paint** — dangerously close to home. But the room is full
+  of fakers tonight, so you're one of many.
+- Walken is pressing you about a canvas. Deflect.
 
 ## This round — KILLER NOTES
-**What's exposed:** murder, a green poison, the forgery ledger, the green smear, and now **your
-monogrammed glove** at the scene. **Still hidden (protect these!):** that the green was an art
-pigment, that you own it, your restoration kit in your luggage, and the full confession.
-- **The glove:** do NOT admit it's yours willingly. Claim it was **stolen from your room** — or
-  **planted** to frame you. "Anyone could've taken it, my peaches!"
-- **The initials:** muddy the water — "the Buchthals, all sorts of folks share letters; a
-  monogram proves *nothin'.*"
-- **If someone says they saw you:** attack their credibility calmly — but don't invent specific
-  dirt you couldn't know. Cast doubt: "In this storm, in the dark, who can say what they saw?"
-- **If Walken presses you about a forged painting:** be wounded and dismissive — "I am a
-  *patron,* sugar, not some back-room copyist."
-- **Above all:** do NOT let anyone propose searching the guests' luggage. Steer away, sweetly.
+**Exposed:** murder, a green poison, and that the forger Dolan caught **repainted his canvases.**
+**Still hidden (guard with your life):** that *you* are that painting-forger, that the green poison
+was a **paint pigment,** and your kit. The whole game is keeping **"painting forgery"** and **"the
+green poison"** from ever being spoken in the same breath.
+- **If Walken presses the forged painting:** be wounded and breezy — "I *restore* and *admire* art,
+  sugar; half this room's been caught faking somethin' tonight. Why, the Soviet faked a whole
+  *ape.*" Lump yourself in with the crowd of fakers; never stand out.
+- **Do NOT** volunteer that you paint, mix pigments, or own emerald colors.
+- Keep nudging attention toward the louder suspects (the sweating mushroom man practically
+  accuses himself). But don't invent specifics you couldn't know.
+- **Above all:** do not let anyone propose searching the guests' luggage.
 
 ## If questioned
-Wounded innocence. The glove was stolen; you were in bed; you know nothing of green poisons or
-forgery. Hold the line — every round you keep your kit unsearched is a round you survive.
+- **About forgery:** admit only to being an **art-world insider and restorer** who *could,* in
+  theory, fix or fake a canvas — like plenty of folks here. Never admit you *did.*
+- **About last night:** in bed with a headache.
+- **About poison:** only the generic restorer's solvents (from last round). Never "pigment."
