@@ -16,7 +16,7 @@ several lives." Big talk for a man who'd be dead before the salad course came 'r
 
 Because here's the rub, sweethearts: sometime last night, between the buttermilk and the
 break of dawn, **Dr. Dolan checked out permanently.** Found him this mornin' — me, Buck
-Shanty, your humble valet — slumped over a creossword puzzle on his desk in the study, 
+Shanty, your humble valet — slumped over a crossword puzzle on his desk in the study, 
 cold as a Yeti's handshake, draped across that ridiculous puzzle-box safe he loved more 
 than people. The **cryptex.**
 
