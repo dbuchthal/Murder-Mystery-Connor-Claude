@@ -18,8 +18,3 @@ from anything that touches money or the Nobel. Watch Antoninski — if he panics
 ## If pressed
 If asked about last night, you "retired to your room," drifting through the parlor where that
 Walken creature was performing. True enough. Reveal nothing of the bribe or your finances.
-
----
-## 🔑 Your cryptex clue (read aloud when clues are pooled)
-*"The word describes the late doctor's charming **temperament** — and his precious little
-**sea-creatures.** Tutti crabby, no?"*

@@ -18,8 +18,3 @@ means confessing the hoax, so save it for when suspicion lands hard on you.
 If asked about last night, be vague: you "stepped out for air." (The truth — staging a fake
 sasquatch sighting in the woods with Laurel — is your escape hatch, but using it exposes the
 fraud. Hold it.)
-
----
-## 🔑 Your cryptex clue (read aloud when clues are pooled)
-*"The third is the first — the **alpha.** In Soviet alphabet, also first: **A.** Position
-three."*

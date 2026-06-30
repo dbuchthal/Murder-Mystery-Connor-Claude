@@ -6,7 +6,7 @@ the bridge clean away, sugar. Now you're cooped up in this big fancy house with 
 nervous city-folk.
 
 ## What you now know
-There's a will locked in that puzzle-box and everybody's got a piece. Don't much matter to
+There's a will locked in that puzzle-box and everybody's got to work together. Don't much matter to
 you who gets the money — what matters is that nobody learns you built that fake sasquatch for
 Antoninski.
 
@@ -19,8 +19,3 @@ secret. Hold it till you need it.
 If asked about last night, you were "out in the woods, where I'm most at home." (The truth —
 helping Antoninski stage a sasquatch sighting — stays put for now.) If anyone eyes your
 moonshine funny, bristle: your brew's got nothin' to do with this.
-
----
-## 🔑 Your cryptex clue (read aloud when clues are pooled)
-*"Last one, sugar — the tail end. The letter that asks a question an' ends 'em too: **Y.**
-Why? Y. Position six."*

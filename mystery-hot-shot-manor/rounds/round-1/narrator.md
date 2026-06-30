@@ -16,8 +16,9 @@ several lives." Big talk for a man who'd be dead before the salad course came 'r
 
 Because here's the rub, sweethearts: sometime last night, between the buttermilk and the
 break of dawn, **Dr. Dolan checked out permanently.** Found him this mornin' — me, Buck
-Shanty, your humble valet — slumped over his desk in the study, cold as a Yeti's handshake,
-draped across that ridiculous puzzle-box safe he loved more than people. The **cryptex.**
+Shanty, your humble valet — slumped over a creossword puzzle on his desk in the study, 
+cold as a Yeti's handshake, draped across that ridiculous puzzle-box safe he loved more 
+than people. The **cryptex.**
 
 And wouldn't you know it — the heavens opened, the bridge to the mainland went into the
 drink, and the phone line died with a sad little click. No cops. No coroner. No checkout.
@@ -26,14 +27,11 @@ Just you, this drafty mansion full of beautiful liars, and one very dead crab en
 *(beat)*
 
 Now here's your problem, party people. Everything you need to know — the new will, the
-names, the *motive* — Dolan locked inside that cryptex. Six letter-rings. One word. And the
-old paranoid genius, bless his crooked heart, split the clue into pieces and handed one to
-**each** of you, so no single soul could open it alone. Real trusting fella.
+names, the *motive* — Dolan locked inside that cryptex. Six letter-rings. One word. 
 
-So that's the deal. Mingle. Scheme. Size each other up. And **pool your clues** — every last
-one of you holds a piece — until you can spell the word that springs the lock. Crack the
-cryptex, and we read the dead man's will. *Tick tock, hot shots. The night's not gettin'
-any younger, and neither is the body.*
+So that's the deal. Mingle. Scheme. Size each other up. And **solve his crossword** — until 
+you can spell the word that springs the lock. Crack the cryptex, and we read the dead man's 
+will. *Tick tock, hot shots. The night's not gettin' any younger, and neither is the body.*
 
 ## Host notes (do not read aloud)
 

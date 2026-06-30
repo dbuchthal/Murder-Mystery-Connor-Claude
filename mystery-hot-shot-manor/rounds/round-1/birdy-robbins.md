@@ -21,7 +21,3 @@ If asked about last night, you were "down at the docks securin' the boat against
 (You came back briefly for your keys around eleven — but keep *what you glimpsed* to yourself this
 round.)
 
----
-## 🔑 Your cryptex clue (read aloud when clues are pooled)
-*"Fourth slot. It's the letter that buoys a boat an' starts my own name, Birdy — a big ol' **B.**
-Position four."*

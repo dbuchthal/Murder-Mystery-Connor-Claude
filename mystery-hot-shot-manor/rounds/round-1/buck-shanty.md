@@ -21,8 +21,3 @@ your cue to start working the case. Tonight, you watch and you remember.
 You're the valet and the finder of the body; you've got nothing to hide about last night
 (you turned in after delivering the nightcap). If asked, say the nightcap was fine when you
 brought it — plant that seed.
-
----
-## 🔑 Your cryptex clue (read aloud when clues are pooled)
-*"Position five, doll. **Same letter as position four** — history repeats. **B,** like Buck,
-like Baltimore."*

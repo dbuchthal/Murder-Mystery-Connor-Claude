@@ -19,7 +19,3 @@ your way. You don't know these people's business; let them squabble among themse
 ## If pressed
 If anyone asks where you were last night, you went **up to bed early with a headache** around
 quarter to eleven. Dave can confirm you said so. (Do **not** volunteer more.)
-
----
-## 🔑 Your cryptex clue (read aloud when clues are pooled)
-*"The word is **six letters** long — no more, no less, my peaches."*
